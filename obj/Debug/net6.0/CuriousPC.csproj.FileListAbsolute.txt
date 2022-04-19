@@ -1,0 +1,15 @@
+C:\Users\Chris\repos\CuriousPC\CuriousPC\bin\Debug\net6.0\CuriousPC.exe
+C:\Users\Chris\repos\CuriousPC\CuriousPC\bin\Debug\net6.0\CuriousPC.deps.json
+C:\Users\Chris\repos\CuriousPC\CuriousPC\bin\Debug\net6.0\CuriousPC.runtimeconfig.json
+C:\Users\Chris\repos\CuriousPC\CuriousPC\bin\Debug\net6.0\CuriousPC.dll
+C:\Users\Chris\repos\CuriousPC\CuriousPC\bin\Debug\net6.0\CuriousPC.pdb
+C:\Users\Chris\repos\CuriousPC\CuriousPC\obj\Debug\net6.0\CuriousPC.csproj.AssemblyReference.cache
+C:\Users\Chris\repos\CuriousPC\CuriousPC\obj\Debug\net6.0\CuriousPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\repos\CuriousPC\CuriousPC\obj\Debug\net6.0\CuriousPC.AssemblyInfoInputs.cache
+C:\Users\Chris\repos\CuriousPC\CuriousPC\obj\Debug\net6.0\CuriousPC.AssemblyInfo.cs
+C:\Users\Chris\repos\CuriousPC\CuriousPC\obj\Debug\net6.0\CuriousPC.csproj.CoreCompileInputs.cache
+C:\Users\Chris\repos\CuriousPC\CuriousPC\obj\Debug\net6.0\CuriousPC.dll
+C:\Users\Chris\repos\CuriousPC\CuriousPC\obj\Debug\net6.0\refint\CuriousPC.dll
+C:\Users\Chris\repos\CuriousPC\CuriousPC\obj\Debug\net6.0\CuriousPC.pdb
+C:\Users\Chris\repos\CuriousPC\CuriousPC\obj\Debug\net6.0\CuriousPC.genruntimeconfig.cache
+C:\Users\Chris\repos\CuriousPC\CuriousPC\obj\Debug\net6.0\ref\CuriousPC.dll
